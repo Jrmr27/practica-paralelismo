@@ -11,7 +11,7 @@ Creation of traces & their representation in Perfetto:
 using "ordenar.c"
 
 1. `gcc -O2 -fopenmp ordenar.c -o file_ordenar`
-2. 
+
 2.1. `./file_ordenar 4 static  --> mv traza.json static.json`
    
 2.2. `./file_ordenar 4 dynamic  --> mv traza.json dynamic.json`
