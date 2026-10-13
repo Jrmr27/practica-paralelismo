@@ -16,6 +16,6 @@ using "ordenar.c"
    
 2.2. `./file_ordenar 4 dynamic  --> mv traza.json dynamic.json`
 
-4. download json files & Perfetto [https://ui.perfetto.dev/] load of them
+3. download json files & Perfetto [https://ui.perfetto.dev/] load of them
 
 
