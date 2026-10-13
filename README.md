@@ -1,7 +1,7 @@
 # paralelism-practice
 in Advanced Computer Architecture class (OpenMP lesson)
 
-Creation of traces with 4 threads & their representation in Perfetto:
+Creation of traces with 4 threads (Codespaces) & their representation in Perfetto:
 ## Static
 <img width="2862" height="632" alt="image" src="https://github.com/user-attachments/assets/572587e1-0d51-495f-9bb6-0238df6246c5" />
 
