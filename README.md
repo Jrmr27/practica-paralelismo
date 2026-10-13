@@ -1,5 +1,5 @@
 # paralelism-practice
-in Advanced Computer Architecture class
+in Advanced Computer Architecture class (OpenMP lesson)
 
 Creation of traces with 4 threads & their representation in Perfetto:
 ## Static
